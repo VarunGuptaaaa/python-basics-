@@ -1,0 +1,8 @@
+print("enter numbers")
+n1 = input()
+print("enter number")
+n2 = input()
+print("enter number")
+n3 = input()
+add = int(n1) + int(n2) + int(n3)
+print("the sum of the above numbers is" , add)
